@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\yadav\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yadav\\Downloads\\module-zero-core-template-master\\module-zero-core-template-master\\angular\\AbpCompanyName.AbpProjectName.AngularUI.csproj",
+      "projectName": "angular",
+      "projectPath": "C:\\Users\\yadav\\Downloads\\module-zero-core-template-master\\module-zero-core-template-master\\angular\\AbpCompanyName.AbpProjectName.AngularUI.csproj",
+      "packagesPath": "C:\\Users\\yadav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yadav\\Downloads\\module-zero-core-template-master\\module-zero-core-template-master\\angular\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\yadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\yadav\\Downloads\\ABS\\ABS.FileGeneration\\bin\\Release": {},
+        "C:\\Users\\yadav\\Music\\ABS 2\\ABS.FileGeneration\\bin\\Debug\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "targetAlias": "net452",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
